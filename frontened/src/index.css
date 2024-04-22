@@ -1,0 +1,25 @@
+.navMembers{
+  margin-right: 860px;
+}
+Link{
+  color: black;
+}
+
+.footer{
+  margin-top: 100px;
+}
+
+.FooterDiv{
+  margin-top: 800px;
+}
+
+.login{
+  text-shadow: -1px 1px 0 #000,
+                1px 1px 0 #000,
+                1px -1px 0 #000,
+                -1px -1px 0 #000;
+}
+
+body{
+  background-color: rgba(0, 0, 255, 0.11);
+}
